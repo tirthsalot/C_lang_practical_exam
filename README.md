@@ -94,7 +94,8 @@ print variable_name
 📎 Attach your practical exam question paper image here:
 
 ```
-<img width="1313" height="508" alt="Screenshot 2026-03-31 153834" src="https://github.com/user-attachments/assets/aee9cbbc-a343-44a5-9180-835c74614d5a" />
+<img width="1313" height="508" alt="Screenshot 2026-03-31 153834" src="https://github.com/user-attachments/assets/13eb5461-d86d-4fe0-b8bb-58d689b1a54e" />
+
 
 
 ```
