@@ -93,13 +93,7 @@ print variable_name
 
 📎 Attach your practical exam question paper image here:
 
-```
-
-<img width="1309" height="512" alt="image" src="https://github.com/user-attachments/assets/fa4a7492-781f-4604-811c-d6fd85b436d0" />
-
-
-
----
+<img width="1309" height="512" alt="image" src="https://github.com/user-attachments/assets/ee09af48-a371-43f0-98fe-fd91d6a4bc7f" />
 
 ## 📚 Concepts Covered
 
